@@ -1,2 +1,2 @@
 #pragma once
-inline void an_assert();
+void an_assert();
